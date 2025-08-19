@@ -1,0 +1,97 @@
+
+========================================
+ROAD NAVIGATION SYSTEM EVOLUTION REPORT
+========================================
+Generated: 2025-08-03 12:36:30
+Session Duration: 18.37 seconds
+Total Frames Processed: 255
+Total Obstacles Detected: 255
+
+========================================
+PERFORMANCE METRICS
+========================================
+
+FPS ANALYSIS:
+- Average FPS: 30.17
+- Minimum FPS: 1.61
+- Maximum FPS: 32.62
+- FPS Stability Score: 92.08%
+- FPS Standard Deviation: 2.39
+
+ANGLE ACCURACY:
+- Mean Angle Error: 10.52 degrees
+- Angle Error Std Dev: 7.04 degrees
+- Maximum Angle Error: 30.33 degrees
+- Angle Accuracy Percentage: 51.37%
+- Total Angle Predictions: 255
+
+TIMEFRAME ACCURACY:
+- Mean Processing Time Deviation: 0.0034 seconds
+- Processing Efficiency Score: 96.61%
+- Real-time Capability: 60.00%
+- Average Processing Time: 0.0355 seconds
+
+========================================
+EVOLUTION MATRICES
+========================================
+
+PERFORMANCE MATRIX (0-100 scale):
+┌────────────────────────────────────────────────────────────┐
+│ FPS Score            │    50.29 │
+│ Efficiency           │    96.61 │
+│ Angle Accuracy       │    51.37 │
+│ Real-time            │    60.00 │
+└────────────────────────────────────────────────────────────┘
+
+ACCURACY MATRIX (0-100 scale):
+┌────────────────────────────────────────────────────────────┐
+│ Angle Accuracy       │    51.37 │
+│ Time Accuracy        │    60.00 │
+│ Detection Rate       │   100.00 │
+└────────────────────────────────────────────────────────────┘
+
+EFFICIENCY MATRIX (0-100 scale):
+┌────────────────────────────────────────────────────────────┐
+│ Resource Usage       │    96.61 │
+│ Speed                │   100.00 │
+│ Stability            │    92.08 │
+└────────────────────────────────────────────────────────────┘
+
+========================================
+SYSTEM ANALYSIS
+========================================
+
+STRENGTHS:
+- High average FPS performance (>25 FPS)
+- Stable FPS performance
+
+AREAS FOR IMPROVEMENT:
+- Low angle prediction accuracy
+- Insufficient real-time processing capability
+
+RECOMMENDATIONS:
+- Improve obstacle detection algorithm or calibrate angle calculation
+- Optimize processing pipeline or consider parallel processing
+
+========================================
+STATISTICAL SUMMARY
+========================================
+
+Frame Processing Statistics:
+- Total frames: 255
+- Frames with obstacles: 255
+- Obstacle detection rate: 100.00%
+
+Performance Distribution:
+- Frames above 30 FPS: 178
+- Frames above 25 FPS: 251
+- Frames below 15 FPS: 2
+
+Angle Distribution:
+- Straight ahead (±5°): 78
+- Moderate turns (5-20°): 154
+- Sharp turns (>20°): 23
+
+========================================
+END OF REPORT
+========================================
